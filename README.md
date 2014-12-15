@@ -1,7 +1,5 @@
 #Contents
-i
-iPython notebook to demonstrate how to 
 
-* Create a networkx graph from a Pandas DataFrame.
-* Attempting to obtain values of a dictionary with non-existent keys.
+A collection of iPython notebooks to demonstrate how to perform tasks in Python, Pandas, and NumPy. 
 
+To view these visit [http://nbviewer.ipython.org/github/dlrice/python-notes/](http://nbviewer.ipython.org/github/dlrice/python-notes/)
